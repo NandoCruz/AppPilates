@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ProfissionalActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="30dp"
+        app:srcCompat="@drawable/txt_pilates" />
+
+    <TextView
+        android:id="@+id/txtCPF2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtCPF"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtCPF2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtNome2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtNome"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtNome2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/edtNome"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtEspecializacao2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtEspecializacao"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtEspecializacao2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/edtEspecializacao"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtConselho2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtConselho"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtConselho2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="@string/edtConselho"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtDtNasc2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtDtNasc"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtDtNasc2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="@string/edtDtNasc"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtContato2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtContato"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtContato2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="@string/edtContato"
+        android:textColor="#3F51B5" />
+
+    <TextView
+        android:id="@+id/txtCEP2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:text="@string/txtCEP"
+        android:textColor="#3F51B5" />
+
+    <EditText
+        android:id="@+id/edtCEP2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="30dp"
+        android:ems="10"
+        android:inputType="@string/edtCEP"
+        android:textColor="#3F51B5" />
+</LinearLayout>

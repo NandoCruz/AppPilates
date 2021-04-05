@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AppPilates</string>
+    <string name="btnProCad">PROFISSIONAL</string>
+    <string name="btnCliCad">CLIENTE</string>
+    <string name="txtBemVindo">Seja Bem Vindo.</string>
+    <string name="btnT2Avancar">AVANÇAR</string>
+    <string name="edtEmail">Digite o seu E-mail</string>
+    <string name="edtSenha">Senha</string>
+    <string name="txtBemVindo2">Seja Bem Vindo.</string>
+    <string name="txtVeja">Veja o que você para hoje.</string>
+    <string name="txtEsqueceuSnha">Esqueceu sua senha, clique aqui.</string>
+    <string name="btnAcancarSenha">AVANÇAR</string>
+    <string name="txtCadastrar">CADASTRAR</string>
+    <string name="txtCPF">CPF</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtEspecializacao">Especialização</string>
+    <string name="txtConselho">Número do Conselho</string>
+    <string name="txtDtNasc">Data de Nascimento</string>
+    <string name="txtContato">Contato</string>
+    <string name="txtCEP">CEP</string>
+    <string name="EdtCPF">CPF</string>
+    <string name="edtNome" />
+    <string name="edtEspecializacao" />
+    <string name="edtConselho" />
+    <string name="edtDtNasc" />
+    <string name="edtContato" />
+    <string name="edtCEP" />
+    <string name="title_activity_proficional">Proficional</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
