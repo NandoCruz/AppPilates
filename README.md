@@ -1,2 +1,2 @@
 # AppPilates
- Um App voltado para profissionais de Pilates
+ Um App voltado para os profissionais de Pilates
